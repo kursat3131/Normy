@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Spotify Discovery",
+  "description": "A high-end Spotify-like application integrated with Gemini AI for intelligent music discovery and Spotify account synchronization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
